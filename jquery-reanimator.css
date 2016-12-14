@@ -1,0 +1,4 @@
+div.jquery-reanimator-div {    display: inline-block;}
+div.jquery-reanimator-div img {    display: block;}
+div.jquery-reanimator-debug-hitbox {    position: relative;    border:3px solid orange;}
+div.jquery-reanimator-debug-midline {    position: fixed;    top:50%;    left:0;    width:100%;    border:1px solid red;}
